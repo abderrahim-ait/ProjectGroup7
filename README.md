@@ -4,8 +4,6 @@
 
 Assane Sene assane.sene@etu.umontpellier.fr
 
-Abderrahim Ait Moulay abderrahim.ait-moulay01@etu.umontpellier.fr
-
 Adrien Simon adrien.simon@etu.umontpellier.fr
 
 
